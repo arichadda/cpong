@@ -113,14 +113,14 @@ const LandingPage = () => {
         />
         <InfoCard
           img_src={PhotoFour}
-          price="0.1 WETH"
+          price="0.05 WETH"
           link_func={redirectFunctionFour}
           heading="004: A Hanover Spring"
           body="The Founder’s Collection includes the first-ever NFTs of the College. 004 is the cornerstone of campus and the fourth installment."
         />
         <InfoCard
           img_src={PhotoFive}
-          price="0.1 WETH"
+          price="0.05 WETH"
           link_func={redirectFunctionFive}
           heading="005: Homecoming"
           body="The Founder’s Collection includes the first-ever NFTs of the College. 005 is the celebration of the continuum and the fifth installment."
