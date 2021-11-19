@@ -38,19 +38,19 @@ function redirectFunctionFive() {
 }
 
 function redirectFunctionOpenSea() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/CPong"
 }
 
 function redirectFunctionLinkedIn() {
-  window.location.href = ""
+  window.location.href = "https://www.linkedin.com/company/crypto-pong/"
 }
 
 function redirectFunctionInstagram() {
-  window.location.href = ""
+  window.location.href = "https://www.instagram.com/cryptopong/"
 }
 
 function redirectFunctionTwitter() {
-  window.location.href = ""
+  window.location.href = "https://twitter.com/cpong2021"
 }
 
 const LandingPage = () => {
@@ -65,7 +65,6 @@ const LandingPage = () => {
             <Button className="redirectButtonOS" kind="secondary" size="default" onClick={redirectFunctionOS}>Visit our OpenSea marketplace</Button>
           </h1>
         </div>
-        {/* <img src={LonePine} alt="lone-pine" className="photo"/> */}
       </div>
       <div className="bx--row landing-page__r2">
         <div className="bx--col bx--no-gutter">
@@ -82,7 +81,8 @@ const LandingPage = () => {
                     Purchasing one of our NFTs will enable you to be a part of one of the fastest growing communities and marketplaces in the world.
                   </p>
                   <p className="landing-page__p">
-                    At CRYPTO PONG, we believe in the power ...
+                    At CRYPTO PONG, we believe in the power of community building through the future of decentralized technologies and ownership. 
+                    Purchasing one of our NFTs will enable you to be a part of one of the fastest growing ecosystems in the world.
                   </p>
                   <Button className="redirectButton" onClick={redirectFunction} kind="secondary">Learn more</Button>
                 <div className="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8"/>
