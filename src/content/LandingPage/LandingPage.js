@@ -137,21 +137,21 @@ const LandingPage = () => {
               <p style={{color: 'white'}}>
                 Cryptopong is a completely student owned and student operated business. 
                 We provide high quality NFTs of the College to alumni and fans. 
-                After purchasing one of our rare images, one will be able to take a piece of the College wherever they may be. 
+                After purchasing one of our premium images, one will be able to take a piece of the College wherever they may be. 
               </p>
               <div>
                 <br/>
                 <br/>
-                <p onClick={redirectFunctionOpenSea} style={{color: 'white'}} >
+                <p onClick={redirectFunctionOpenSea} style={{color: 'white'}} margin-bottom='3px'>
                   <u>OpenSea</u>
                 </p>  
-                <p onClick={redirectFunctionInstagram} style={{color: 'white'}} display="inline-block">
+                <p onClick={redirectFunctionInstagram} style={{color: 'white'}} display="inline-block" margin-bottom='3px'>
                   <u>Instagram</u>
                 </p>  
-                <p onClick={redirectFunctionLinkedIn} style={{color: 'white'}} display="inline-block">
+                <p onClick={redirectFunctionLinkedIn} style={{color: 'white'}} display="inline-block" margin-bottom='3px'>
                   <u>LinkedIn</u>
                 </p>  
-                <p onClick={redirectFunctionTwitter} style={{color: 'white'}} display="inline-block">
+                <p onClick={redirectFunctionTwitter} style={{color: 'white'}} display="inline-block" margin-bottom='3px'>
                   <u>Twitter</u>
                 </p>  
               </div>
