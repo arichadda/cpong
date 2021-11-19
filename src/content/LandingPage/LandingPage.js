@@ -96,7 +96,6 @@ const LandingPage = () => {
           buynow="5 ETH"
           link_func={redirectFunctionOne}
           heading="001: College on a Hill"
-          body="It's a distributed effort, guided by the principles of the open-source movement. Carbon's users are also it's makers, and everyone is encouraged to contribute."
         />
         <InfoCard
           img_src={PhotoTwo}
@@ -104,7 +103,6 @@ const LandingPage = () => {
           buynow="3 ETH"
           link_func={redirectFunctionTwo}
           heading="002: Vox Clamantis"
-          body="It's a distributed effort, guided by the principles of the open-source movement. Carbon's users are also it's makers, and everyone is encouraged to contribute."
         />
         <InfoCard
           img_src={PhotoThree}
@@ -112,7 +110,6 @@ const LandingPage = () => {
           buynow="3 ETH"
           link_func={redirectFunctionThree}
           heading="003: In Deserto"
-          body="It's a distributed effort, guided by the principles of the open-source movement. Carbon's users are also it's makers, and everyone is encouraged to contribute."
         />
         <InfoCard
           img_src={PhotoFour}
@@ -120,7 +117,6 @@ const LandingPage = () => {
           buynow="2 ETH"
           link_func={redirectFunctionFour}
           heading="004: A Hanover Spring"
-          body="It's a distributed effort, guided by the principles of the open-source movement. Carbon's users are also it's makers, and everyone is encouraged to contribute."
         />
         <InfoCard
           img_src={PhotoFive}
