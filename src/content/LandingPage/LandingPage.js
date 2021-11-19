@@ -92,8 +92,7 @@ const LandingPage = () => {
       <InfoSection heading="FOUNDER'S COLLECTION (Visit OpenSea purchase page by clicking image)" className="landing-page__r3">
         <InfoCard
           img_src={PhotoOne}
-          price="0.2 ETH"
-          buynow="5 ETH"
+          price="0.2 WETH"
           link_func={redirectFunctionOne}
           heading="001: College on a Hill"
           body="The Founder's Collection includes the first-ever NFTs of the College. 001 is the center of campus and the first installment."

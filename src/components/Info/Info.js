@@ -17,7 +17,6 @@ const InfoCard = props => {
         <strong>{props.heading}</strong>
       </h4>
       <h5>Start Price: {props.price}</h5>
-      <h5>Buy Now Price: {props.buynow}</h5>
       <p className="info-card__body">{props.body}</p>
     </article>
   );
