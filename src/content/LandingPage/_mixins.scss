@@ -1,0 +1,32 @@
+@mixin landing-page-background() {
+  // background-color: $ui-01;
+  background-image: url('unsplash.jpg');
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -$spacing-06;
+    top: 0;
+    right: -$spacing-06;
+    bottom: 0;
+    background: $ui-01;
+    z-index: -1;
+  }
+}
+
+@mixin landing-page-background-two() {
+  background-color: #000000;
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -$spacing-07;
+    top: 0;
+    right: -$spacing-07;
+    bottom: 0;
+    background: #000000;
+    z-index: -1;
+  }
+}
