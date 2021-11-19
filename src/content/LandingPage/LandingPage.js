@@ -75,14 +75,13 @@ const LandingPage = () => {
                   <p className="landing-page__p">
                     NFTs, or non-fungible-tokens, are images, videos, gifs, and/or any form of digital file that cannot be duplicated. 
                     Built on blockchain technology, owners can easily confirm their proof of ownership via a digital certification of their purchase.  
-                    Rather than exclusively selling pieces of art through in person galleries, creators can now also sell their work online as NFTs. 
-                    Once purchased, NFT owners can access their newfound pieces from anywhere in the world (given they have connection to Wifi or cellular data) giving works of art and creators/owners unparalleled access. 
-                    Moreover, from 2018 to 2020, the market cap of NFTs rose from $41 million to a staggering $338 million making them an incredible investment opportunity. 
-                    Purchasing one of our NFTs will enable you to be a part of one of the fastest growing communities and marketplaces in the world.
+                    Rather than exclusively selling art pieces through in-person galleries, creators can now also sell their work online as NFTs.
+                    Once purchased, NFT owners can access their newfound pieces from anywhere in the world, giving works of art and creators/owners unparalleled access. 
+                    Moreover, from 2018 to 2020, the market cap of NFTs rose from $41 million to a staggering $338 million, making them an incredible investment opportunity. 
                   </p>
                   <p className="landing-page__p">
                     At CRYPTO PONG, we believe in the power of community building through the future of decentralized technologies and ownership. 
-                    Purchasing one of our NFTs will enable you to be a part of one of the fastest growing ecosystems in the world.
+                    Purchasing one of our NFTs will enable you to be a part of one of the fastest-growing ecosystems in the world.
                   </p>
                   <Button className="redirectButton" onClick={redirectFunction} kind="secondary">Learn more</Button>
                 <div className="bx--col-md-4 bx--offset-lg-1 bx--col-lg-8"/>
