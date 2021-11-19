@@ -14,27 +14,27 @@ function redirectFunction() {
 }
 
 function redirectFunctionOS() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/collection/untitled-collection-92808344"
 }
 
 function redirectFunctionOne() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72688937085603843973544497565222681678600926416679765054993884138660014587905"
 }
 
 function redirectFunctionTwo() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72688937085603843973544497565222681678600926416679765054993884139759526215681"
 }
 
 function redirectFunctionThree() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72688937085603843973544497565222681678600926416679765054993884140859037843457"
 }
 
 function redirectFunctionFour() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72688937085603843973544497565222681678600926416679765054993884141958549471233"
 }
 
 function redirectFunctionFive() {
-  window.location.href = ""
+  window.location.href = "https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/72688937085603843973544497565222681678600926416679765054993884143058061099009"
 }
 
 function redirectFunctionOpenSea() {
