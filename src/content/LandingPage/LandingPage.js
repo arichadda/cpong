@@ -124,7 +124,6 @@ const LandingPage = () => {
           buynow="2 ETH"
           link_func={redirectFunctionFive}
           heading="005: Homecoming"
-          body="It's a distributed effort, guided by the principles of the open-source movement. Carbon's users are also it's makers, and everyone is encouraged to contribute."
         />
      </InfoSection>
       <div className="gutter-page_banner">
